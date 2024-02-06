@@ -1,4 +1,4 @@
 module.exports = {
     token: process.env.TOKEN,
-    botAdmins: ["1173547185758015498"]
+    botAdmins: ["1053871662283628615"]
 }
