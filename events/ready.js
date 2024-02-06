@@ -6,7 +6,7 @@ module.exports = class {
     async run() {
         this.client.user.setActivity(`g?help`, {
             type: "STREAMING",
-            url: "https://www.youtube.com/watch?v=ovGcjFPdnNQ"
+            url: "https://discord.gg/wZHjUG4AYC"
         });;
         console.log(`${this.client.user.tag}, Watching ${this.client.users.cache.size} users and ${this.client.guilds.cache.size} servers.`);
     }
